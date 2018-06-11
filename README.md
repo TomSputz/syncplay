@@ -1,3 +1,5 @@
+This is a fork of the main program designed to automate all interaction with the UI, hopefully eliminating it entirely once the server ip is set. As of this moment, I plan to use MPV as the player, allowing any users to drag URLs to play, immediately propagating to all connected users
+
 #  Syncplay
 
 Solution to synchronize video playback across multiple instances of mpv, VLC, MPC-HC, MPC-BE and mplayer2 over the Internet.
